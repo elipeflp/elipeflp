@@ -1,23 +1,9 @@
-- 👋 Olá, eu sou @elipeflp (Felipe Ferreira)
-- 👀 Tenho interesse em Quality Assurance e testes de software.
-- 🌱 Atualmente, estou aprendendo Cypress, Jira e as melhores práticas em testes de software.
-- 💞️ Estou buscando colaborar em projetos que priorizem a qualidade do produto e a satisfação dos usuários.
-- 📫 Como me encontrar: felipeferreirafer@gmail.com
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Sou apaixonado por ajudar equipes a criarem experiências excepcionais para os usuários por meio de processos eficazes de QA.
+👋 Oi, eu sou o Felipe Ferreira (@elipeflp)
+👀 Sobre mim: Sou apaixonado por tecnologia, especialmente por tudo que envolve Quality Assurance, automação de testes e como melhorar processos para entregar softwares incríveis.
+🌱 O que estou fazendo: Estou começando minha jornada na área de QA e aprendendo bastante sobre ferramentas como Cypress, Jira e práticas de testes manuais e automatizados. Além disso, estou sempre buscando entender como posso contribuir mais para a qualidade dos produtos.
+💡 Meu objetivo: Quero trabalhar em projetos onde a qualidade seja uma prioridade, ajudando equipes a criarem produtos que sejam confiáveis, eficientes e que realmente façam a diferença na vida dos usuários.
+🤝 O que eu trago para a mesa: Conhecimento sobre metodologias ágeis como Scrum e Kanban, experiência em criar casos de teste e explorar soluções criativas para problemas. Estou sempre aberto a aprender coisas novas e colaborar com equipes para entregar o melhor resultado possível.
+📫 Onde me encontrar: Me manda um e-mail em felipeferreirafer@gmail.com, vou adorar trocar uma ideia!
+😄 Pronomes: Ele/Dele
+⚡ Um fato curioso: Eu amo ajudar equipes a transformar ideias em experiências que impressionam os usuários. A satisfação de ver um software funcionando como deveria é o que mais me motiva.
 
---------------------------------------------------------------------------
-
-- 👋 Hi, I’m @elipeflp (Felipe Ferreira)
-- 👀 I’m interested in Quality Assurance and software testing.
-- 🌱 I’m currently learning Cypress, Jira, and best practices in software testing.
-- 💞️ I’m looking to collaborate on projects that prioritize product quality and user satisfaction.
-- 📫 How to reach me: felipeferreirafer@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m passionate about helping teams create exceptional user experiences through effective QA processes.
-
-
-<!---
-elipeflp/elipeflp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
