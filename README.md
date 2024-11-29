@@ -8,9 +8,7 @@
 
 🤝 O que eu trago para a mesa: Conhecimento sobre metodologias ágeis como Scrum e Kanban, experiência em criar casos de teste e explorar soluções criativas para problemas. Estou sempre aberto a aprender coisas novas e colaborar com equipes para entregar o melhor resultado possível.
 
-📫 Onde me encontrar: Me manda um e-mail em felipeferreirafer@gmail.com, vou adorar trocar uma ideia!
+📫 Onde me encontrar: Me manda um e-mail em felipeferreirafer@gmail.com.
 
-😄 Pronomes: Ele/Dele
 
-⚡ Um fato curioso: Eu amo ajudar equipes a transformar ideias em experiências que impressionam os usuários. A satisfação de ver um software funcionando como deveria é o que mais me motiva.
 
