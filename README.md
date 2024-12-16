@@ -1,12 +1,16 @@
 👋 Oi, eu sou o Felipe Ferreira (@elipeflp)
 
-👀 Sobre mim: Sou apaixonado por tecnologia, especialmente por tudo que envolve Quality Assurance, automação de testes e como melhorar processos para entregar softwares incríveis.
+Sou um profissional determinado, trazendo minha sólida experiência como supervisor para o dinâmico campo da Análise de Testes. Minha trajetória é marcada pela liderança de equipes, otimização de processos e excelência na execução de projetos. 
 
-🌱 O que estou fazendo: Estou começando minha jornada na área de QA e aprendendo bastante sobre ferramentas como Cypress, Jira e práticas de testes manuais e automatizados. Além disso, estou sempre buscando entender como posso contribuir mais para a qualidade dos produtos.
+Agora, aplico essas competências no universo da tecnologia, com foco em garantir a qualidade de software e a entrega de soluções eficientes. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas, com ênfase em Quality Assurance. Estou continuamente aprimorando minhas habilidades em áreas essenciais, como:
 
-💡 Meu objetivo: Quero trabalhar em projetos onde a qualidade seja uma prioridade, ajudando equipes a criarem produtos que sejam confiáveis, eficientes e que realmente façam a diferença na vida dos usuários.
+Linguagens de Programação: Python e JavaScript;
+Testes: Manuais e Automatizados, utilizando ferramentas como Postman e Cypress;
+Metodologias Ágeis: Scrum e Kanban;
+Qualidade de Software: Planejamento e desenvolvimento de casos de teste claros e bem estruturados.
 
-🤝 O que eu trago para a mesa: Conhecimento sobre metodologias ágeis como Scrum e Kanban, experiência em criar casos de teste e explorar soluções criativas para problemas. Estou sempre aberto a aprender coisas novas e colaborar com equipes para entregar o melhor resultado possível.
+Meu objetivo é combinar minha experiência prévia com o conhecimento técnico adquirido para contribuir de forma significativa com a qualidade e a eficiência dos projetos em que atuo.
+
 
 📫 Onde me encontrar: Me manda um e-mail em felipeferreirafer@gmail.com.
 
