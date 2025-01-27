@@ -1,15 +1,17 @@
-👋 Oi, eu sou o Felipe Ferreira (@elipeflp)
+Sou formado em Relações Públicas e atualmente curso Análise e Desenvolvimento de Sistemas (ADS), área em que descobri minha paixão: a Qualidade de Software (QA).
 
-Sou um profissional determinado, trazendo minha sólida experiência como supervisor para o dinâmico campo da Análise de Testes. Minha trajetória é marcada pela liderança de equipes, otimização de processos e excelência na execução de projetos. 
+Estou sempre me dedicado a adquirir conhecimento técnico e prático para garantir a excelência de softwares e contribuir com a eficiência dos projetos. Afinal, novas ferramentas aparecem todos os dias, rs! Além disso, estou aprimorando meu inglês diariamente para colaborar com equipes diversas e atuar em vários ambientes.
 
-Agora, aplico essas competências no universo da tecnologia, com foco em garantir a qualidade de software e a entrega de soluções eficientes. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas, com ênfase em Quality Assurance. Estou continuamente aprimorando minhas habilidades em áreas essenciais, como:
+Estou desenvolvendo habilidades em ferramentas e práticas essenciais para QA, como:
 
+Testes Manuais e Automatizados: Utilizando ferramentas como Cypress e Postman;
 Linguagens de Programação: Python e JavaScript;
-Testes: Manuais e Automatizados, utilizando ferramentas como Postman e Cypress;
 Metodologias Ágeis: Scrum e Kanban;
-Qualidade de Software: Planejamento e desenvolvimento de casos de teste claros e bem estruturados.
+Qualidade de Software: Planejamento e criação de casos de teste claros e bem estruturados.
 
-Meu objetivo é combinar minha experiência prévia com o conhecimento técnico adquirido para contribuir de forma significativa com a qualidade e a eficiência dos projetos em que atuo.
+Acredito no aprendizado contínuo e do trabalho em equipe como pilares para alcançar resultados significativos e satisfatórios. Minha formação em Relações Públicas me trouxe habilidades como comunicação, trabalho em equipe e organização, que agora aplico no dinâmico universo da tecnologia.
+
+Meu objetivo é contribuir com a qualidade e a eficiência dos projetos enquanto continuo desenvolvendo minhas competências técnicas e expandindo meu conhecimento.
 
 
 📫 Onde me encontrar: Me manda um e-mail em felipeferreirafer@gmail.com.
